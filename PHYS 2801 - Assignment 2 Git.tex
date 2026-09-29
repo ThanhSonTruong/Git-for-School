@@ -1,0 +1,73 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{amsmath}   % For mathematical symbols and equations
+\usepackage{graphicx}  % For including images
+\usepackage{hyperref}  % For hyperlinks
+\usepackage{siunitx}
+
+% Title Page
+\title{PHYS 2801 - Assignment 2}
+\author{Son Thanh Truong}
+\date{\today}  % Current date
+
+
+\begin{document}
+
+\maketitle
+
+% Main section header
+\section{Question 1: The Maxwell–Boltzmann distribution}
+
+The Maxwell–Boltzmann distribution:
+
+% Can use a subsection for each question
+\subsection{Part (a)}
+Here is the Maxwell–Boltzmann distribution function:
+\begin{equation}
+ % f(v) = 4 \pi \left( \frac{m}{2 \pi k_B T} \right)^{3/2} v^2 \exp\left( -\frac{m v^2}{2 k_B T} \right)
+  f(v) = 4 \pi \left( \frac{m}{2 \pi k_B T} \right)^{3/2} v^2 \exp\left( -\frac{m v^2}{2 k_B T} \right)
+  \label{eq:maxwell-speed}
+\end{equation}
+% We can now refer to the equation using the label
+Equation~\ref{eq:maxwell-speed} follows from Newton's second law. As the gravitational acceleration is $g$, the downward gravitation force on an object with mass $m$ is $m\,g$.
+
+To improve the redability of an equation, I usually add a half-space between the terms, which is done using back-slash follwod by comma: \texttt{\textbackslash,}.
+It looks OK also without this: $F=m\vec{a}$.
+
+% let's try that sub-sub section
+\subsubsection{Complex equation}
+
+The time–independent Schr{\"o}dinger equation is given by
+\begin{equation}
+  -\frac{\hbar^2}{2m} \nabla^2 \psi(\mathbf{r}) + V(\mathbf{r}) \, \psi(\mathbf{r}) 
+= E \, \psi(\mathbf{r}),
+\label{eq:schrodinger}
+\end{equation}
+where $\nabla^2$ is the Laplacian operator, $\psi(\mathbf{r})$ is the wave function and $V(\mathbf{r})$ gives the potential energy.
+\subsection{Figures}
+
+Figures are included to a latex docuemnt using syntax as seen below.
+
+\begin{verbatim}
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.6\textwidth]{example.png}
+    \caption{An example figure. Replace the file name and caption with your own.}
+    \label{fig:example}
+\end{figure}
+\end{verbatim}
+
+Comments:
+\begin{itemize}
+    \item The key line is the \texttt{\textbackslash includegraphics} command, which inserts the figure and allows you to specify its size.
+    \item The image file must exist in the same folder as your \texttt{.tex} file. The recommended formats are \texttt{.png} or \texttt{.pdf}.
+    \item To refer to the figure from the text, use its label, e.g.\ \texttt{see Figure\textasciitilde\textbackslash ref\{fig:example\}}.
+\end{itemize}
+
+
+\subsection{Question 2}
+Now onto question 2!
+
+\end{document}
+
