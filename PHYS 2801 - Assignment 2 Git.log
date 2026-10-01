@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  29 SEP 2026 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  30 SEP 2026 18:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -263,8 +263,20 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip55
 \backup@length=\skip56
 \ar@cellbox=\box64
-))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 15.
+)) (/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count324
+\float@exts=\toks25
+\float@box=\box65
+\@float@everytoks=\toks26
+\@floatcapt=\box66
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read2
+)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 17.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
  (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -273,28 +285,28 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 149.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count324
+\l__color_backend_stack_int=\count325
 ) (./PHYS 2801 - Assignment 2 Git.aux)
 \openout1 = `"PHYS 2801 - Assignment 2 Git.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -332,24 +344,24 @@ LaTeX Font Info:    ... okay on input line 15.
 
 (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
+\scratchcounter=\count326
 \scratchdimen=\dimen179
-\scratchbox=\box65
-\nofMPsegments=\count326
-\nofMParguments=\count327
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count328
+\scratchbox=\box67
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count329
 \MPscratchDim=\dimen180
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks30
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 15.
+Package hyperref Info: Link coloring OFF on input line 17.
  (./PHYS 2801 - Assignment 2 Git.out) (./PHYS 2801 - Assignment 2 Git.out)
 \@outlinefile=\write3
 \openout3 = `"PHYS 2801 - Assignment 2 Git.out"'.
@@ -357,52 +369,63 @@ Package hyperref Info: Link coloring OFF on input line 15.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 15.
-LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 35.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 35.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 17.
+<maxwell_boltzmann.png, id=12, 429.0429pt x 312.6882pt>
+File: maxwell_boltzmann.png Graphic file (type png)
+<use maxwell_boltzmann.png>
+Package pdftex.def Info: maxwell_boltzmann.png  used on input line 42.
+(pdftex.def)             Requested size: 362.37569pt x 264.10674pt.
+File: "mystery_program.txt"  (verbatim)
+ [1
 
+{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.50 \verbatiminput{mystery_program.txt}
+                                        ^^M <./maxwell_boltzmann.png>]
+File: "mystery.txt"  (verbatim)
 
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 35.
-
-
-Overfull \hbox (47.20735pt too wide) in paragraph at lines 59--59
-[]    \OT1/cmtt/m/n/12 \caption{An example figure. Replace the file name and caption with your own.}[] 
+Overfull \hbox (10.15733pt too wide) in paragraph at lines 51--51
+[]                    \OT1/cmtt/m/n/12 !!!!!!!!!!!!!!!!                                  !!!!![] 
  []
 
-[1
 
-{/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (14.13333pt too wide) in paragraph at lines 65--66
-[]\OT1/cmr/m/n/12 To re-fer to the fig-ure from the text, use its la-bel, e.g. \OT1/cmtt/m/n/12 see Figure~\OMS/cmtt/m/n/12 n\OT1/cmtt/m/n/12 ref\OMS/cmtt/m/n/12 f\OT1/cmtt/m/n/12 fig:example\OMS/cmtt/m/n/12 g\OT1/cmr/m/n/12 . 
+Overfull \hbox (28.68234pt too wide) in paragraph at lines 51--51
+[]                  \OT1/cmtt/m/n/12 !!!!!!!!!!!!!!!!!!!                               !!!!!!!!!![] 
  []
 
-[2{/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./PHYS 2801 - Assignment 2 Git.aux)
+
+Overfull \hbox (22.50734pt too wide) in paragraph at lines 51--51
+[]                 \OT1/cmtt/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!                 !         !!!!!!!!!![] 
+ []
+
+
+Overfull \hbox (10.15733pt too wide) in paragraph at lines 51--51
+[]            \OT1/cmtt/m/n/12 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!              !!     !!!!!!!!!!!![] 
+ []
+
+[2] [3] (./PHYS 2801 - Assignment 2 Git.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
 Package rerunfilecheck Info: File `"PHYS 2801 - Assignment 2 Git".out' has not changed.
-(rerunfilecheck)             Checksum: 633BD89670C35E82EB2382DDA3C82998;746.
+(rerunfilecheck)             Checksum: 2E046D23775DA145D87390E3192B64E8;394.
  ) 
 Here is how much of TeX's memory you used:
- 13603 strings out of 467525
- 270879 string characters out of 5418982
- 660462 words of memory out of 5000000
- 42391 multiletter control sequences out of 15000+600000
- 635141 words of font info for 66 fonts, out of 8000000 for 9000
+ 13701 strings out of 467525
+ 272750 string characters out of 5418982
+ 670882 words of memory out of 5000000
+ 42487 multiletter control sequences out of 15000+600000
+ 633876 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,395b,1100s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on "PHYS 2801 - Assignment 2 Git.pdf" (2 pages, 109155 bytes).
+ 75i,6n,79p,553b,1222s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "PHYS 2801 - Assignment 2 Git.pdf" (3 pages, 235762 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 69 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 22 words of extra memory for PDF output out of 10000 (max. 10000000)
 
