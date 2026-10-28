@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  19 OCT 2026 13:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.3.22)  23 OCT 2026 23:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -242,43 +242,131 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip54
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen172
+\lightrulewidth=\dimen173
+\cmidrulewidth=\dimen174
+\belowrulesep=\dimen175
+\belowbottomsep=\dimen176
+\aboverulesep=\dimen177
+\abovetopsep=\dimen178
+\cmidrulesep=\dimen179
+\cmidrulekern=\dimen180
+\defaultaddspace=\dimen181
+\@cmidla=\count311
+\@cmidlb=\count312
+\@aboverulesep=\dimen182
+\@belowrulesep=\dimen183
+\@thisruleclass=\count313
+\@lastruleclass=\count314
+\@thisrulewidth=\dimen184
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count315
+\LTcapwidth=\dimen185
+\LT@head=\box57
+\LT@firsthead=\box58
+\LT@foot=\box59
+\LT@lastfoot=\box60
+\LT@gbox=\box61
+\LT@cols=\count316
+\LT@rows=\count317
+\c@LT@tables=\count318
+\c@LT@chunks=\count319
+\LT@p@ftn=\toks28
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count320
+\calc@Bcount=\count321
+\calc@Adimen=\dimen186
+\calc@Bdimen=\dimen187
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count322
+\calc@Cskip=\skip61
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2025/12/10 v3.0d eso-pic (RN)
+\ESO@tempdima=\dimen188
+\ESO@tempdimb=\dimen189
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+))
+\AM@pagewidth=\dimen190
+\AM@pageheight=\dimen191
+\AM@fboxrule=\dimen192
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count323
+\AM@pagebox=\box62
+\AM@global@opts=\toks29
+\AM@pagecnt=\count324
+\AM@toc@title=\toks30
+\AM@lof@heading=\toks31
+\c@AM@survey=\count325
+\AM@templatesizebox=\box63
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count311
+\l__color_backend_stack_int=\count326
 ) (./PHYS 2007 - Diffraction.aux)
 \openout1 = `"PHYS 2007 - Diffraction.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
  (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count312
-\scratchdimen=\dimen172
-\scratchbox=\box57
-\nofMPsegments=\count313
-\nofMParguments=\count314
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count315
-\MPscratchDim=\dimen173
-\MPnumerator=\count316
-\makeMPintoPDFobject=\count317
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count327
+\scratchdimen=\dimen193
+\scratchbox=\box64
+\nofMPsegments=\count328
+\nofMParguments=\count329
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count330
+\MPscratchDim=\dimen194
+\MPnumerator=\count331
+\makeMPintoPDFobject=\count332
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -319,47 +407,135 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 16.
+Package hyperref Info: Link coloring OFF on input line 21.
 (./PHYS 2007 - Diffraction.out) (./PHYS 2007 - Diffraction.out)
 \@outlinefile=\write3
 \openout3 = `"PHYS 2007 - Diffraction.out"'.
 
- [1
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PDF (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) [1
 
 {/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 95.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 95.
  (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+ignored: Infinite glue shrinkage found in box being split
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.77 \end{document}
-                    [1] (./PHYS 2007 - Diffraction.aux)
+l.129 \end{longtable}
+                      [1]
+ignored: Infinite glue shrinkage found in box being split [2]
+<Diffraction.pdf, id=40, 614.295pt x 794.97pt>
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf>
+Package pdftex.def Info: Diffraction.pdf  used on input line 197.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+<Diffraction.pdf, id=42, page=1, 614.295pt x 794.97pt>
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 1>
+Package pdftex.def Info: Diffraction.pdf , page1 used on input line 197.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 1>
+Package pdftex.def Info: Diffraction.pdf , page1 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [3]
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 1>
+Package pdftex.def Info: Diffraction.pdf , page1 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 1>
+Package pdftex.def Info: Diffraction.pdf , page1 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 1>
+Package pdftex.def Info: Diffraction.pdf , page1 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [4
+
+ <./Diffraction.pdf>]
+<Diffraction.pdf, id=94, page=2, 614.295pt x 794.97pt>
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 2>
+Package pdftex.def Info: Diffraction.pdf , page2 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 2>
+Package pdftex.def Info: Diffraction.pdf , page2 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 2>
+Package pdftex.def Info: Diffraction.pdf , page2 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [5
+
+ <./Diffraction.pdf>]
+<Diffraction.pdf, id=99, page=3, 614.295pt x 794.97pt>
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 3>
+Package pdftex.def Info: Diffraction.pdf , page3 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 3>
+Package pdftex.def Info: Diffraction.pdf , page3 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 3>
+Package pdftex.def Info: Diffraction.pdf , page3 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [6
+
+ <./Diffraction.pdf>]
+<Diffraction.pdf, id=105, page=4, 614.295pt x 794.97pt>
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 4>
+Package pdftex.def Info: Diffraction.pdf , page4 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 4>
+Package pdftex.def Info: Diffraction.pdf , page4 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: Diffraction.pdf Graphic file (type pdf)
+<use Diffraction.pdf, page 4>
+Package pdftex.def Info: Diffraction.pdf , page4 used on input line 197.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [7
+
+ <./Diffraction.pdf>] (./PHYS 2007 - Diffraction.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `"PHYS 2007 - Diffraction".out' has not changed.
-(rerunfilecheck)             Checksum: A03D36CAF8544AB279AF5115FC09F1FC;388.
+(rerunfilecheck)             Checksum: 8B34B94B9C5608B9F697CD06D185FDED;288.
  ) 
 Here is how much of TeX's memory you used:
- 10203 strings out of 467525
- 154692 string characters out of 5418982
- 568707 words of memory out of 5000000
- 38996 multiletter control sequences out of 15000+600000
- 633876 words of font info for 63 fonts, out of 8000000 for 9000
+ 11755 strings out of 467525
+ 180145 string characters out of 5418982
+ 627268 words of memory out of 5000000
+ 40499 multiletter control sequences out of 15000+600000
+ 634177 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,293b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on "PHYS 2007 - Diffraction.pdf" (2 pages, 52217 bytes).
+ 75i,17n,90p,293b,651s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "PHYS 2007 - Diffraction.pdf" (8 pages, 138893 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 14 named destinations out of 1000 (max. 500000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
 
