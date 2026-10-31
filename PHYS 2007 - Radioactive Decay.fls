@@ -1,8 +1,8 @@
-PWD /Users/sontruong/Documents/Git for School
+PWD /Users/sonthanhtruong/Documents/Git-for-School
 INPUT /usr/local/texlive/2026/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/sontruong/Documents/Git for School/PHYS 2007 - Radioactive Decay.tex
+INPUT /Users/sonthanhtruong/Documents/Git-for-School/PHYS 2007 - Radioactive Decay.tex
 OUTPUT PHYS 2007 - Radioactive Decay.log
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
