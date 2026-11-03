@@ -10,6 +10,11 @@
 \usepackage{geometry}
 \usepackage{hyperref}
 
+\usepackage{listings}
+\usepackage{xcolor}
+
+\usepackage{graphicx}
+
 % Page margins
 \geometry{margin=1in}
 
@@ -55,7 +60,123 @@ Write your answer here.
 
 \section{Data Analysis}
 
-Write your answer here.
+\subsection{Background Radiation}
+For the Background Radiation, we took 100 
+samples of 5s duration. The result for the 
+average/mean of backround radiation rate
+using python's numpy library, np.mean is:
+2.68 +/- 1.54 Counts per 5 seconds.
+Using the python code the sample variance was given as 
+2.38 $(Counts per 5 seconds)^2$. The standard deviation
+is the square root of that. Here is a graph of
+the background radiation total counts in 5s versus
+how many times that happened inthe Y-axis.
+
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Radioactive Decay Graphs/BG_histogram with Fit.png}
+    \caption{Radioactive decay of Barium-137m over time.}
+    \label{fig:half_life}
+\end{figure}
+
+\subsection{The Half-Life of Barium-137m}
+To find the half-life of Barium-137m,
+the Barium radioactive material was put very close
+to The GM counter. The sample rate was 5s/sample.
+When the data was analyzed, the background radiation
+counts data recorded in the previous section were
+subtracted easily using programming. Basically,
+the mean of the Background Radiation were subtracted
+from each sample. This is very easily done using
+Python. Here is the line of code used to subtract the
+Barium Radiation recording:
+
+\begin{lstlisting}[language=Python]
+# 5. Subtract the corrected average background
+corrected_counts = HL_corrected - bkgAvg_corrected
+\end{lstlisting}
+
+There were other calibrations to correct the data for
+a better fit, but the resulting change was so small
+that I believe that it could be neglected but still
+make a great fit. The Calibration is called Geiger
+Counter Dead Time. Here is the equation for that:
+\begin{equation}
+N_{true} = \frac{n_{observed}}{1 - n_{observed} \tau}
+\end{equation}
+$N_{true}$ is the true count, 
+$n_{observed}$ is the observed count, 
+and $\tau$ is the dead time of the Geiger counter.
+
+After subtracting the background radiation,
+The data was plotted and here it is:
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Radioactive Decay Graphs/Half-Life of Ba with Fit.png}
+    \caption{Radioactive decay of Barium-137m over time.}
+    \label{fig:half_life}
+\end{figure}
+The half-life of Barium-137m is:
+Half-Life = ln2/lambda = ln2/0.0043773832515909585 is approximately 158.35 seconds
+\subsection{Pb Absorption Coefficient}
+This part is composed of changing the thickness of
+the lead that the radiation has to go through and 
+measuring what that effect has on the intensity
+of the radiation.
+The lead involved composes of different
+square sheets with different thicknesses
+but average about 1mm in thickness in zip lock bags.
+The data was them collected, graphed and fitted.
+Below is the fitted graph showing the data points
+and the fitted curve. The result is that the
+absorption coefficent is 0.02 cm$^{-1}$.
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Radioactive Decay Graphs/Lead Absorbtion with Fit.png}
+    \caption{Pb absorption coefficient measurement.}
+    \label{fig:pb_absorption}
+\end{figure}
+
+\subsection{Inverse-Square Law}
+The analyis for the Inverse-Square Law is very
+similar to previous analysis. After data is collected
+during the experiment, the data was sampled into 
+a one dimensional array. Two arrays of the same size
+were created for graphing.The Background mean
+was used for correction. At that point the Curve Fit
+function was used. The initial function from the lab
+manual that I tried was:
+
+\begin{lstlisting}[language=Python]
+    def ISL(x,a,b,c,n):
+        return a/(x-b)**n + c
+\end{lstlisting}
+After calling Curve Fit many times with no luck
+even after setting b, and c to zero in the call.
+I decided to set them to zero manually by removing
+them out of the equation.
+The new function I used was:
+\begin{lstlisting}[language=Python]
+def ISL2(x,a,n):
+        return a/x**n
+\end{lstlisting}
+
+Then I called:
+
+\begin{lstlisting}[language=Python]
+popt, pcov = curve_fit(I, thickness, Counts, [1])
+
+Where the very last parameter [1] is my
+guess for u. I ended up getting N = 1.53.
+\end{lstlisting}
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=0.8\textwidth]{Radioactive Decay Graphs/Inverse Square Law with Fit.png}
+    \caption{Inverse-square law measurement.}
+    \label{fig:inverse_square}
+\end{figure}
+
+
 
 \section{Discussion}
 
