@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1793673942.6146 "/Users/sonthanhtruong/Documents/Git-for-School/PHYS 2007 - Radioactive Decay.tex" "PHYS 2007 - Radioactive Decay.pdf" "PHYS 2007 - Radioactive Decay" 1793673943.25002 0
-  "/Users/sonthanhtruong/Documents/Git-for-School/PHYS 2007 - Radioactive Decay.tex" 1793673942.41613 5352 a8c92b441f2c48229087b62999d22670 ""
+["pdflatex"] 1793674171.62703 "/Users/sonthanhtruong/Documents/Git-for-School/PHYS 2007 - Radioactive Decay.tex" "PHYS 2007 - Radioactive Decay.pdf" "PHYS 2007 - Radioactive Decay" 1793674172.26801 0
+  "/Users/sonthanhtruong/Documents/Git-for-School/PHYS 2007 - Radioactive Decay.tex" 1793674171.45762 5353 5279b65db53493cd5c5ecdd987c7a245 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -94,9 +94,9 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1792698816 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1774209607 3636776 dc5fa9b6b1453b9d196cd42edf876004 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "PHYS 2007 - Radioactive Decay.aux" 1793673943.21553 2294 e2d3c4300f60de3379ed13630bea9594 "pdflatex"
-  "PHYS 2007 - Radioactive Decay.out" 1793673943.2159 1392 817a5724ae92a70b6281889a163d4ba9 "pdflatex"
-  "PHYS 2007 - Radioactive Decay.tex" 1793673942.41613 5352 a8c92b441f2c48229087b62999d22670 ""
+  "PHYS 2007 - Radioactive Decay.aux" 1793674172.23361 2294 e2d3c4300f60de3379ed13630bea9594 "pdflatex"
+  "PHYS 2007 - Radioactive Decay.out" 1793674172.23396 1392 817a5724ae92a70b6281889a163d4ba9 "pdflatex"
+  "PHYS 2007 - Radioactive Decay.tex" 1793674171.45762 5353 5279b65db53493cd5c5ecdd987c7a245 ""
   "Radioactive Decay Graphs/BG_histogram with Fit.png" 1793659706.47447 39988 bf27eb9db3ce42952d17cfed8bb1e80b ""
   "Radioactive Decay Graphs/Half-Life of Ba with Fit.png" 1793659706.46858 143979 1266a558f750f85e919bee2e4210972d ""
   "Radioactive Decay Graphs/Inverse Square Law with Fit.png" 1793659699.99132 98478 cb37b05aa959327e399055fbcfe66c37 ""
