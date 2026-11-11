@@ -117,6 +117,19 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pppdftex.def
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdfpages/pppdftex.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./PHYS 2007 - Radioactive Decay.aux
@@ -139,6 +152,12 @@ OUTPUT PHYS 2007 - Radioactive Decay.pdf
 INPUT ./PHYS 2007 - Radioactive Decay.out
 INPUT ./PHYS 2007 - Radioactive Decay.out
 OUTPUT PHYS 2007 - Radioactive Decay.out
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
+INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
@@ -169,6 +188,8 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./Radioactive Decay Graphs/BG_histogram with Fit.png
 INPUT ./Radioactive Decay Graphs/BG_histogram with Fit.png
 INPUT ./Radioactive Decay Graphs/BG_histogram with Fit.png
@@ -178,7 +199,6 @@ INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstlang1.sty
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti12.tfm
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm
 INPUT ./Radioactive Decay Graphs/Half-Life of Ba with Fit.png
 INPUT ./Radioactive Decay Graphs/Half-Life of Ba with Fit.png
 INPUT ./Radioactive Decay Graphs/Half-Life of Ba with Fit.png
@@ -189,21 +209,153 @@ INPUT ./Radioactive Decay Graphs/Lead Absorbtion with Fit.png
 INPUT ./Radioactive Decay Graphs/Lead Absorbtion with Fit.png
 INPUT ./Radioactive Decay Graphs/Lead Absorbtion with Fit.png
 INPUT ./Radioactive Decay Graphs/Lead Absorbtion with Fit.png
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./Radioactive Decay Graphs/Inverse Square Law with Fit.png
 INPUT ./Radioactive Decay Graphs/Inverse Square Law with Fit.png
 INPUT ./Radioactive Decay Graphs/Inverse Square Law with Fit.png
 INPUT ./Radioactive Decay Graphs/Inverse Square Law with Fit.png
 INPUT ./Radioactive Decay Graphs/Inverse Square Law with Fit.png
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Background Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Half-Life Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./Absorption Coefficient Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./ISL Table.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
+INPUT ./RadioactiveDecay-Template.pdf
 INPUT PHYS 2007 - Radioactive Decay.aux
 INPUT ./PHYS 2007 - Radioactive Decay.out
 INPUT ./PHYS 2007 - Radioactive Decay.out
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
